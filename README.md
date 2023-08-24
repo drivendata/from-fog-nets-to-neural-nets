@@ -4,16 +4,17 @@
 ![Banner Image](https://s3.amazonaws.com/drivendata/comp_images/fog_mountain_from_site.jpg)
 
 # From Fog Nets to Neural Nets
+
 ## Goal of the Competition
+
 Dar Si Hmad (DSH) has built the world’s largest fog-collection and distribution system to serve these indigenous communities. Delivery of fogwater significantly reduces women’s laborious water-gathering chores, and helps foster stable communities, continuation of ancestral languages and ways of living in thriving local environments.
 
 Your challenge is to develop a model that will predict the yield of DSH’s fog nets for every day during an evaluation period, using historical data about meteorological conditions and the fog net installations. Accurate predictions will enable DSH to operate more effectively and the communities it serves to be have greater access to fresh water throughout the year.
 
 ## What's in this Repository
-This repository contains code volunteered from leading competitors in the [From Fog Nets to Neural Nets](https://www.drivendata.org/competitions/9/) on DrivenData.
+This repository contains code volunteered from leading competitors in the [From Fog Nets to Neural Nets](https://www.drivendata.org/competitions/9/) on DrivenData. Code for all winning solutions are open source under the MIT License.
 
-#### Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).
-
+**Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
 ## Winning Submissions
 
@@ -24,6 +25,6 @@ Place |Team or User | Public Score | Private Score | Summary of Model
 3 | oliviers | 3.0514 | 2.9723 | I made a program which allows to easily build some "mini models" which use only a part of the data and different aggregation techniques, and then choose the best performing "mini model" for each line of the submission.
 
 
-#### Winner's Interview: ["Visualizing a Future for Fog Nets"](http://blog.drivendata.org/2016/07/19/fogwater-winner/)
+**Winner's Interview: ["Visualizing a Future for Fog Nets"](https://drivendata.co/blog/fogwater-winner/)**
 
-#### Benchmark Blog Post: ["Cloudy with a chance of models"](http://blog.drivendata.org/2016/03/01/fogwater-benchmark/)
+**Benchmark Blog Post: ["Cloudy with a chance of models"](https://drivendata.co/blog/fogwater-benchmark/)**
